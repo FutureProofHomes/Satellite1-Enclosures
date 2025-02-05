@@ -69,13 +69,17 @@
 ## About the Project
 The enclosures in this repo relate to the Satellite1 Voice Assistant
 
-<a href="https://docs.futureproofhomes.net/satellite1-dev-kit-enclosure/">
-<img src="assets/images/sat1_pose_tall.JPG" alt="Sat1 Pose Tall" width="50%" style="border-radius:5%">
-</a>
+<div style="text-align: center;">
+    <a href="https://docs.futureproofhomes.net/satellite1-dev-kit-enclosure/">
+        <img src="assets/images/sat1_pose_tall.JPG" alt="Sat1 Pose Tall" width="80%" style="border-radius:5%">
+    </a>
+</div>
 
-<a href="https://docs.futureproofhomes.net/satellite1-dev-kit-enclosure/">
-    <img src="assets/images/sat1_pose_speaker.JPG" alt="Sat1 Pose Tall" width="50%" style="border-radius:5%">
-</a>    
+<div style="text-align: center;">
+    <a href="https://docs.futureproofhomes.net/satellite1-dev-kit-enclosure/">
+        <img src="assets/images/sat1_pose_speaker.JPG" alt="Sat1 Pose Tall" width="80%" style="border-radius:5%">
+    </a>
+</div>
 
 <!-- GETTING STARTED -->
 ## Getting Started
