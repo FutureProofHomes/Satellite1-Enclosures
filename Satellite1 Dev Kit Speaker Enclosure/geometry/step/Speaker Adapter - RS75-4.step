@@ -5,22 +5,19 @@ HEADER;
  */
 
 FILE_DESCRIPTION(
-/* description */ ('',
-'CAx-IF Rec.Pracs.---Representation and Presentation of Product Manufa
-cturing Information (PMI)---4.0---2014-10-13'),
+/* description */ (''),
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'chamber base - RS75-4.step',
-/* time_stamp */ '2025-03-27T19:36:48Z',
+/* name */ 'Speaker Adapter - RS75-4.step',
+/* time_stamp */ '2025-05-06T18:16:44+01:00',
 /* author */ (''),
 /* organization */ (''),
-/* preprocessor_version */ 'ST-DEVELOPER v20',
-/* originating_system */ 'Autodesk Translation Framework v13.20.0.188',
-
+/* preprocessor_version */ 'ST-DEVELOPER v20.1',
+/* originating_system */ 'Autodesk Translation Framework v14.4.0.0',
 /* authorisation */ '');
 
-FILE_SCHEMA (('AP242_MANAGED_MODEL_BASED_3D_ENGINEERING_MIM_LF { 1 0 10303 442 1 1 4 }'));
+FILE_SCHEMA (('AUTOMOTIVE_DESIGN { 1 0 10303 214 3 1 1 }'));
 ENDSEC;
 
 DATA;
@@ -2976,8 +2973,9 @@ SOLID_ANGLE_UNIT()
 'chamber base - RS75-4 - Threads v1',(#2591));
 #2587=PRODUCT_RELATED_PRODUCT_CATEGORY('Component5','Component5',(#2592));
 #2588=APPLICATION_PROTOCOL_DEFINITION('international standard',
-'ap242_managed_model_based_3d_engineering',2011,#2589);
-#2589=APPLICATION_CONTEXT('Managed model based 3d engineering');
+'automotive_design',2009,#2589);
+#2589=APPLICATION_CONTEXT(
+'Core Data for Automotive Mechanical Design Process');
 #2590=PRODUCT_CONTEXT('part definition',#2589,'mechanical');
 #2591=PRODUCT('chamber base - RS75-4 - Threads',
 'chamber base - RS75-4 - Threads v1',$,(#2590));
