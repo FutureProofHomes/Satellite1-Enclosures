@@ -70,7 +70,7 @@
 The enclosures in this repo relate to the Satellite1 Voice Assistant
 
 <div style="text-align: center;">
-    <a href="https://docs.futureproofhomes.net/satellite1-dev-kit-enclosure/">
+    <a href="https://docs.futureproofhomes.net/satellite1-squircle-enclosures//">
         <img src="assets/images/squircle_family.jpg" alt="Sat1 Pose Tall" width="80%" style="border-radius:5%">
     </a>
 </div>
