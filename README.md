@@ -78,7 +78,7 @@ The enclosures in this repo relate to the Satellite1 Voice Assistant
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Go to [Docs.FutureProofHomes.net/satellite1-dev-kit-enclosure/](https://docs.futureproofhomes.net/satellite1-dev-kit-enclosure/) and follow the instructions to print and assemble your enclosure.
+Go to [Docs.FutureProofHomes.net/satellite1-squircle-enclosures/](https://docs.futureproofhomes.net/satellite1-squircle-enclosures/) and follow the instructions to print and assemble your enclosure.
 
 <!-- CONTRIBUTING -->
 ## Contributing
