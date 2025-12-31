@@ -25,7 +25,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/FutureProofHomes/Satellite1-Enclosures">
-    <img src="assets/images/logo.png" alt="Logo" width="80" height="80" style="border-radius:10%">
+    <img src="../../assets/images/logo.png" alt="Logo" width="80" height="80" style="border-radius:10%">
   </a>
 
 <h3 align="center">Satellite1 Voice Assistant Enclosures</h3>
@@ -71,7 +71,7 @@ The enclosures in this repo relate to the Satellite1 Voice Assistant
 
 <div style="text-align: center;">
     <a href="https://docs.futureproofhomes.net/satellite1-squircle-enclosures">
-        <img src="assets/images/sat1_enclosure_kit.jpg" alt="Satellite1 Smart Speaker Enclosure Kit" width="80%" style="border-radius:5%">
+        <img src="../../assets/images/sat1_enclosure_kit.jpg" alt="Satellite1 Smart Speaker Enclosure Kit" width="80%" style="border-radius:5%">
     </a>
 </div>
 
@@ -145,8 +145,8 @@ Checkout out our growing YouTube Channel  - [YouTube.com/@FutureProofHomes](http
 [license-url]: https://github.com/FutureProofHomes/Satellite1-Enclosures/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
-[genaimockup]: assets/images/mockup.png
-[combo_render]: assets/images/combo_render.png
+[genaimockup]: ../../assets/images/mockup.png
+[combo_render]: ../../assets/images/combo_render.png
 [kicad.org]: https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white
 [kicad-url]: https://www.kicad.org/
 [esphome.io]: https://img.shields.io/badge/-ESPHome-000000?style=for-the-badge&logo=esphome&logoColor=white
