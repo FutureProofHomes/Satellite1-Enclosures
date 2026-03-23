@@ -28,8 +28,9 @@
     <img src="../../assets/images/logo.png" alt="Logo" width="80" height="80" style="border-radius:10%">
   </a>
 
-<h3 align="center">Satellite1 Voice Assistant Enclosures</h3>
-<h3 align="center" color="red">Only files with Sat1.1 in it's name are designed to work for the new Sat1.1 DevKit</h3>
+<h3 align="center">Satellite1 Voice Assistant Enclosures<br>
+! Only files with Sat1.1 in it's name are designed to work for the new Sat1.1 DevKit !</h3>
+
 
   <p align="center">
     3D printable geometry and project files for enclosures relating to the Satellite1 AI-Powered Voice Assistant and its accessories.
