@@ -72,7 +72,7 @@ The enclosures in this repo relate to the Satellite1 Voice Assistant
 
 <div style="text-align: center;">
     <a href="https://docs.futureproofhomes.net/satellite1-smart-speaker-enclosure-kit/">
-        <img src="../../assets/images/white_gray_sat1_enclosure_kit.jpg" alt="Satellite1 Smart Speaker Enclosure Kit" width="80%" style="border-radius:5%">
+        <img src="Pictures/PrintPreview.png" alt="Satellite1.1 Smart Speaker Enclosure Kit" width="80%" style="border-radius:5%">
     </a>
 </div>
 
